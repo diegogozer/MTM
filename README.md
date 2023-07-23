@@ -1,7 +1,7 @@
 # MTM
 
 
-[Interpolação Linear] (docs/interpolalinear.vb)
+[Interpolação Linear] (interpolalinear.vb)
 
 
 Função em Excel que realizar interpolação linear.
